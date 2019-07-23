@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //changes
-            //change2
+            //change2creating conflict
         }
     }
 }
