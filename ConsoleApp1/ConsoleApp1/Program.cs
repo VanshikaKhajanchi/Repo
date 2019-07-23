@@ -14,7 +14,7 @@ namespace ConsoleApp1
             //changes
             //conflictchange2
             //change2creating conflict
-
+            //paridhi wala conflict
             //changeswithconflict
 
         }
