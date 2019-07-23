@@ -12,7 +12,6 @@ namespace ConsoleApp1
         {
             //changes
             //conflictchange2
-            
             //change2creating conflict
         }
     }
