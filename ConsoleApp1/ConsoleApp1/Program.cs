@@ -10,8 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+
+            //changes
+            //conflictchange2
+            //change2creating conflict
+
             //changeswithconflict
             //change conflict1
+
         }
     }
 }
